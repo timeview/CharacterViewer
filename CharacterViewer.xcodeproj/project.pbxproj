@@ -24,6 +24,7 @@
 		DA46747E1F51DA2F00452520 /* CharAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA46747D1F51DA2F00452520 /* CharAPI.swift */; };
 		DA4674821F51FC9100452520 /* myGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4674811F51FC9100452520 /* myGridCell.swift */; };
 		DA4674841F51FCE200452520 /* myListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4674831F51FCE200452520 /* myListCell.swift */; };
+		DA5CDB8F1F92897A000B50A2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = DA5CDB8E1F92897A000B50A2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		DA46747D1F51DA2F00452520 /* CharAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharAPI.swift; sourceTree = "<group>"; };
 		DA4674811F51FC9100452520 /* myGridCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myGridCell.swift; sourceTree = "<group>"; };
 		DA4674831F51FCE200452520 /* myListCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myListCell.swift; sourceTree = "<group>"; };
+		DA5CDB8E1F92897A000B50A2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DA4674561F51A68B00452520 /* CharacterViewerTests */,
 				DA4674611F51A68B00452520 /* CharacterViewerUITests */,
 				DA46743E1F51A68B00452520 /* Products */,
+				DA5CDB8E1F92897A000B50A2 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -315,6 +318,7 @@
 				DA46747C1F51D13D00452520 /* Extensions.swift in Sources */,
 				DA46747E1F51DA2F00452520 /* CharAPI.swift in Sources */,
 				DA46747A1F51CFDD00452520 /* CharData.swift in Sources */,
+				DA5CDB8F1F92897A000B50A2 /* README.md in Sources */,
 				DA4674821F51FC9100452520 /* myGridCell.swift in Sources */,
 				DA4674741F51AD9300452520 /* GridLayout.swift in Sources */,
 				DA4674751F51AD9300452520 /* ListLayout.swift in Sources */,
